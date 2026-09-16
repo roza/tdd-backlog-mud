@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "java.project.referencedLibraries": [
+            "*.jar"
+        ],
+        "java.project.sourcePaths": [
+            "."
+        ]
+    }
+}
